@@ -1,1 +1,27 @@
+# Python
 *.pyc
+*.sql
+local_settings.py
+migrations/
+media/
+
+# Packages
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+#Translations
+*.mo
+
+# Mac
+.DS_Store
